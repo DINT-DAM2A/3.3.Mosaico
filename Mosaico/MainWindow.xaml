@@ -1,0 +1,23 @@
+﻿<Window x:Class="Mosaico.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mosaico"
+        mc:Ignorable="d"
+        Icon="img/16.ico"
+        Title="Mosaico" Height="660" Width="670" MinWidth="450" MinHeight="470">
+    <Grid>
+        <DockPanel>
+            <TextBlock Background="#FF6F00F3" DockPanel.Dock="Top" Height="100"></TextBlock>
+            <TextBlock Background="#FF6F00F3" DockPanel.Dock="Left" Width="100"></TextBlock>
+            <TextBlock Background="#FF1F890E" DockPanel.Dock="Bottom" Height="100"></TextBlock>
+            <TextBlock Background="#FF1F890E" DockPanel.Dock="Right" Width="100"></TextBlock>
+            <TextBlock Background="#FFFF7400" DockPanel.Dock="Left" Width="100"></TextBlock>
+            <TextBlock Background="#FFFF7400" DockPanel.Dock="Bottom" Height="100"></TextBlock>
+            <TextBlock Background="#FFD101FF" DockPanel.Dock="Right" Width="100"></TextBlock>
+            <TextBlock Background="#FFD101FF" DockPanel.Dock="Top" Height="100"></TextBlock>
+            <TextBlock Background="Black" ></TextBlock>
+        </DockPanel>
+    </Grid>
+</Window>
