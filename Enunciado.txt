@@ -1,0 +1,11 @@
+3. Diseñar la interfaz de usuario de una aplicación que muestre un mosaico de
+colores siguiendo las siguientes indicaciones:
+• Únicamente se pueden utilizar paneles de tipo DockPanel.
+• La interfaz debe comportarse al redimensionar la ventana como en el
+ejecutable suministrado.
+• Podéis elegir los colores que más os gusten, pero se debe respetar la forma
+del mosaico.
+• Únicamente se deben utilizar controles TextBlock. No tendrán texto y
+tendrán un ancho o alto de 100 (dependiendo de si son verticales u
+horizontales).
+Nombre del proyecto: Mosaico
